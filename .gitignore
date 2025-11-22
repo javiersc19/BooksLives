@@ -1,0 +1,37 @@
+# Entornos virtuales
+BooksLives_env/
+venv/
+.env/
+.virtualenv/
+
+# Cache y archivos generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Archivos grandes o innecesarios
+*.mp3
+*.wav
+*.flac
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.zip
+*.rar
+*.7z
+
+# Otros
+.DS_Store
+Thumbs.db
+
