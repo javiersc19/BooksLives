@@ -1,6 +1,6 @@
 streamlit==1.51.0
-transformers==4.57.1
-torch==2.9.1
+transformers==4.57.1 
+torch==2.9.1 #A veces se instala automaticamente con transformers
 tokenizers==0.22.1
 
 replicate==1.0.7
